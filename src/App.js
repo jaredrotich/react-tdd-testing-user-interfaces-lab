@@ -3,7 +3,7 @@ function App() {
     <div>
       <h1>Hi, I'm JARED</h1>
       <img
-      src=""
+      src="https://avatars.githubusercontent.com/u/198506538?s=400&u=02fb5de6b061cb7375272b3bba8b2b2b4307800b&v=4"
        alt="Photo of Jared smiling"
       />
       <h2>About Me</h2>
